@@ -1,4 +1,5 @@
 <Solution>
   <Project Path="ConsoleApp1/ConsoleApp1.csproj" />
+  <Project Path="ConsoleApp2/ConsoleApp2.csproj" />
   <Project Path="ConsoleApp4/ConsoleApp4.csproj" />
 </Solution>
